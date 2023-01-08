@@ -68,3 +68,6 @@ https://cameron-schlueter.github.io/WeatherTracker/
 
 # Contact Information
 Please feel free to contact me at my LinkedIn www.linkedin.com/in/cameron-schlueter.
+
+# Credits
+Powered by <a href="https://www.weatherapi.com/" title="Weather API">WeatherAPI.com</a>

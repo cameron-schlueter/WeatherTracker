@@ -19,6 +19,16 @@ h1 {
 
 .right-column {
     flex: 1;
+    display: block;
+    background-color: aqua;
+    position: relative;
     width: 300px;
     height: 600px;
+}
+
+#displayGrandRapids {
+    display: block;
+    background-color: burlywood;
+    width: 200px;
+    height: 200px;
 }
